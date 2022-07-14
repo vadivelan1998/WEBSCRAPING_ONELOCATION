@@ -1,0 +1,23 @@
+{
+  "name": "webscraping_onelocation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadivelan1998/WEBSCRAPING_ONELOCATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadivelan1998/WEBSCRAPING_ONELOCATION/issues"
+  },
+  "homepage": "https://github.com/vadivelan1998/WEBSCRAPING_ONELOCATION#readme",
+  "dependencies": {
+    "puppeteer": "^15.4.0"
+  }
+}
